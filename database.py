@@ -113,7 +113,7 @@ def init_db():
 
         # تنظیمات + اکانت مدیر
         defaults = {
-            "building_name": "مجتمع مسکونی نمونه",
+            "building_name": "مجتمع مسکونی نیکا",
             "initial_current_fund": "50000000",
             "initial_ownership_fund": "120000000",
             "admin_username": "admin",
